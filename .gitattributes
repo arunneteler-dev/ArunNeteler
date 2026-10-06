@@ -1,0 +1,4 @@
+https://github.com/open-webui/desktop.git
+
+# Auto detect text files and perform LF normalization
+* text=auto
